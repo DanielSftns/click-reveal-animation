@@ -1,4 +1,5 @@
-.section_home-hero .home-hero_right *{
+.section_home-hero .home-hero_right *,
+.navbar_component {
   user-select: none;
 }
 
