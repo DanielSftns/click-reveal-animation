@@ -1,0 +1,22 @@
+.section_home-hero .home-hero_right *{
+  user-select: none;
+}
+
+#hero-animation {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+#hero-animation canvas {
+  margin: auto;
+}
+
+.custom-cursor {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
